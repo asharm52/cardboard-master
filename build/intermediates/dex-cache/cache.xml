@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-eee1d3bb83c5808cbabcde13125ac7d56d8f2071.jar"
+        jar="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7800973ef52ae629978ad974370b6a0b9bc79e25"/>
+    <item
+        dex="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/pre-dexed/debug/classes-bd3460598fa0f448edc87eb2453ff9c75eae5f80.jar"
+        jar="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-9aad048ffeeb28d23d05d534c6092c9fb6a9c7e3.jar"
+        jar="/Users/aayushs96/Downloads/CS125-v001-mac-64bit/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-b028a1bdb727d96297cb2929a86d5f7dc85498c3.jar"
+        jar="/Users/aayushs96/Downloads/cardboard-master/CardboardSample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+
+</pre-dex-items>
