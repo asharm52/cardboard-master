@@ -164,7 +164,9 @@ public class CardboardOverlayView extends LinearLayout {
 
             // Layout ImageView
             float imageMargin = (1.0f - imageSize) / 2.0f;
-            float leftMargin = (int) (width * (imageMargin + offset));
+            for(int i=0;i<360;i++) {
+                float leftMargin = (int) (width * (imageMargin + offset+i));
+            }
             float topMargin = (int) (height * (imageMargin + verticalImageOffset));
             imageView.layout(
                 (int) leftMargin, (int) topMargin,

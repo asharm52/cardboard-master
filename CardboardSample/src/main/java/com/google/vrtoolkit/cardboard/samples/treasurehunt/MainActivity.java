@@ -157,6 +157,7 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
 
 
         mOverlayView = (CardboardOverlayView) findViewById(R.id.overlay);
+        Matrix.rotateM(mModelCube, 0, TIME_DELTA, 0.5f, 0.5f, 1.0f);
         mOverlayView.show3DToast("Pull the magnet when you find an object.");
     }
 
@@ -241,6 +242,7 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
         Matrix.translateM(mModelFloor, 0, 0, -mFloorDepth, 0); // Floor appears below user
 
         checkGLError("onSurfaceCreated");
+        Matrix.rotateM(mModelCube, 0, TIME_DELTA, 0.5f, 0.5f, 1.0f);
     }
 
     /**
